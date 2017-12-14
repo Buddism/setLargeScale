@@ -5,7 +5,7 @@ function Player::setLargeScale(%this,%iter)
 	{
 		switch(restWords(%this.setLargeScale))
 		{
-            case 14: %this.scale = "201.7 201.7 201.7";
+			case 14: %this.scale = "201.7 201.7 201.7";
 			case 13: %this.scale = "100.9 100.9 100.9";
 			case 12: %this.scale = "62.4 62.4 62.4";
 			case 11: %this.scale = "38.6 38.6 38.6";
